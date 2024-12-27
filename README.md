@@ -5,3 +5,7 @@ Fortran（FORmula TRANslationの略）は、1950年代にIBMによって開発�
 Fortranは、科学技術計算や数値解析の分野で非常に長い歴史を持つプログラミング言語であり、Fortran（フォートラン）を使って計算機科学や数値計算に取り組む方法を指しています。特に数学的なモデルやシミュレーション、物理、気象、工学などの分野で多く使われてきました。
 「Fortranに関する基本的な知識を授業で学び、その内容をここで公開いたします。」
 ###
+環境設定：
+Utilize the ParaView application for data visualization.
+Download Paraview installer and install software
+ https://www.paraview.org/download/
