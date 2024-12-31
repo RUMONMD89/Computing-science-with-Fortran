@@ -11,3 +11,5 @@ Utilize the ParaView application for data visualization.
 
 Download Paraview installer and install software.
 https://www.paraview.org/download/
+
+<img src="k12 Visualization and Verification/datavisualization by paraview.png" height="300px" width ="550px">
