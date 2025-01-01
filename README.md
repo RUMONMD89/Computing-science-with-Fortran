@@ -12,4 +12,13 @@ Utilize the ParaView application for data visualization.
 Download Paraview installer and install software.
 https://www.paraview.org/download/
 
+Sample problem:
+
+ • Sample problem:
+ 3D Simulation of heat conduction in a box
+ Using two different materials 
+ IMAT=1:Copper  IMAT=0:Stainless in Fortran code
+ Finite Difference Method
+ Forward Euler Method (Explicit)
+
 <img src="k12 Visualization and Verification/datavisualization by paraview.png" height="300px" width ="550px">
