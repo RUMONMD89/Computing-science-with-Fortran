@@ -16,9 +16,13 @@ Sample problem:
 
  • Sample problem:
  3D Simulation of heat conduction in a box
+ 
  Using two different materials 
- IMAT=1:Copper  IMAT=0:Stainless in Fortran code
+ IMAT=1:Copper  IMAT=0:Stainless in  Fortran code
+ 
  Finite Difference Method
  Forward Euler Method (Explicit)
+ 
+<img src="k12 Visualization and Verification/picture2.png" height="300px" width ="550px">
 
 <img src="k12 Visualization and Verification/datavisualization by paraview.png" height="300px" width ="550px">
