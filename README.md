@@ -25,4 +25,5 @@ Sample problem:
  
 <img src="k12 Visualization and Verification/picture2.png" height="300px" width ="550px">
 
+Data visualization using the ParaView application.
 <img src="k12 Visualization and Verification/datavisualization by paraview.png" height="300px" width ="550px">
