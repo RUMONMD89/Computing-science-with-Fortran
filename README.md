@@ -14,7 +14,6 @@ https://www.paraview.org/download/
 
 Sample problem:
 
- • Sample problem:
  3D Simulation of heat conduction in a box
  
  Using two different materials 
@@ -26,4 +25,5 @@ Sample problem:
 <img src="k12 Visualization and Verification/picture2.png" height="300px" width ="550px">
 
 Data visualization using the ParaView application.
+
 <img src="k12 Visualization and Verification/datavisualization by paraview.png" height="300px" width ="550px">
