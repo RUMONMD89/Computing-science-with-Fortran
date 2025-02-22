@@ -24,6 +24,6 @@ Sample problem:
  
 <img src="k12 Visualization and Verification/picture2.png" height="300px" width ="550px">
 
-Data visualization using the ParaView application.
+Paraviewアプリケーションを使用したデータ視覚化。
 
 <img src="k12 Visualization and Verification/datavisualization by paraview.png" height="300px" width ="550px">
